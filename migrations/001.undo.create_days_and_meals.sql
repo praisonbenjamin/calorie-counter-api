@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS meal;
+DROP TABLE IF EXISTS day_table;
